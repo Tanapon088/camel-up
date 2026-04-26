@@ -1,0 +1,22 @@
+# Camel Up! – Python dependencies
+# All packages below are from the Python standard library.
+# No third-party packages are required.
+#
+# Python >= 3.9 is recommended.
+#
+# Standard-library modules used:
+#   tkinter   – GUI (bundled with CPython on Windows/macOS/most Linux distros)
+#   sqlite3   – Database persistence
+#   json      – Serialisation
+#   random    – Dice rolls
+#   logging   – Application logging
+#   dataclasses – Camel / LegBetToken data classes
+#   collections – defaultdict for board spaces
+
+# If you need to install tkinter on Ubuntu/Debian:
+#   sudo apt-get install python3-tk
+
+# Optional: for linting and testing during development
+# pytest==8.2.0
+# flake8==7.0.0
+# black==24.4.2
