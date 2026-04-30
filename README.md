@@ -220,5 +220,3 @@ pytest tests/ -v
 MIT – feel free to extend, fork, or use as a learning resource.
 
 ---
-
-*Built with ❤️ and pure Python stdlib – no bloated dependencies!*
